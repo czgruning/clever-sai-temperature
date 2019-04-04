@@ -31,7 +31,7 @@ public class Temperature extends JPanel {
 		JLabel label = CleverSwingUtil.getNameLabel("Clever-SAI", 14, Color.RED);
 		JPanel minInner = CleverSwingUtil.getMinOrMax("min", 14);
 		JPanel maxInner = CleverSwingUtil.getMinOrMax("max", 14);
-		JButton compute = new JButton("è®¡ç®—");
+		JButton compute = new JButton("¼ÆËã");
 		parent.add(label);
 		parent.add(minInner);
 		parent.add(maxInner);
