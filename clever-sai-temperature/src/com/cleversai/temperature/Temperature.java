@@ -50,7 +50,7 @@ public class Temperature extends JPanel {
 		add(child5);
 		child6.add(CleverSwingUtil.getChild("SAI-SAI-6", 13, Color.BLACK));
 		add(child6);
-		System.out.println("提交git库成功");
+		System.out.println("提交git库成功，中文乱码问题解决");
 		tail = new JPanel();
 		JLabel tailText = CleverSwingUtil.getNameLabel("Clever-SAI", 15, Color.MAGENTA);
 		tail.add(tailText);
