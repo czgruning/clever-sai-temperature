@@ -10,7 +10,7 @@ public class AreaConst {
 	private Map<String, String> spss_factor_map = new HashMap<String, String>();
 
 	/**
-	 * ¸ß¼Ò¹µ¡¢Âí¼ÒÓø¡¢ÏÂÔæÁÖ¡¢¹ØÉÏ¡¢Å¯Èª¡¢ÄÏºã
+	 * é«˜å®¶æ²Ÿã€é©¬å®¶å³ªã€ä¸‹æ£æ—ã€å…³ä¸Šã€æš–æ³‰ã€å—æ’
 	 */
 	private static final String GJG = "GaoJiaGou";
 	private static final String MJY = "MaJiaYu";
